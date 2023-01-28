@@ -1,1 +1,1 @@
-# mobile_dev_week2_grp6
+## Session 2 Week 2 Group 6
